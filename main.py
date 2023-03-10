@@ -1,5 +1,4 @@
 # Name: Isaac Francisco Marte
-# Date: 1/24/2022
 # Class: SDEV 300
 
 # imported modules used by the functions within program
